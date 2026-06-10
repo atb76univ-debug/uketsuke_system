@@ -1,0 +1,15 @@
+{
+  "name": "もうミスらないtonight!の受付",
+  "short_name": "もうミスらないtonight!の受付",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "TMPlogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
